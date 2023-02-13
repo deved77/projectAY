@@ -4,6 +4,10 @@ public class Multi {
 
         return x*y;
     }
-
     
+    public double dev(double x, double y){
+        return x/y;
+    }
+
+
 }
